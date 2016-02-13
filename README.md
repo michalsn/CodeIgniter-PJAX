@@ -20,7 +20,7 @@ Enable hooks in your `application/config/config.php` file, by setting `$config['
 
 ## Limitations
 
-PJAX container must be an ID element.
+PJAX container must be an `id` attribute.
 
 ## Testing
 
