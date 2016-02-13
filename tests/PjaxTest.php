@@ -1,5 +1,7 @@
 <?php
 
+include_once('vendor/autoload.php');
+
 use \Mockery as m;
 
 class PjaxTest extends PHPUnit_Framework_TestCase {
