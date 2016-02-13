@@ -1,4 +1,5 @@
 # CodeIgniter PJAX Hook
+[![Build Status](https://travis-ci.org/michalsn/CodeIgniter-PJAX.svg?branch=master)](https://travis-ci.org/michalsn/CodeIgniter-PJAX)
 
 What is PJAX? It's a jquery plugin. For more informations visit [plugin page](https://github.com/defunkt/jquery-pjax).
 
@@ -31,4 +32,4 @@ composer install
 
 ## License
 
-The MIT License (MIT).
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
