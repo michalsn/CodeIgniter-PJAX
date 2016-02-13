@@ -7,13 +7,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *
  * Pre-processes global input data for security
  *
- * @package		CodeIgniter
- * @subpackage	Libraries
- * @category	Input
- * @author		Michal Sniatala <m.sniatala@gmail.com>
- * @link		https://github.com/michalsn/CodeIgniter-PJAX
- * @license		http://opensource.org/licenses/MIT	MIT License
- * @version		1.0
+ * @package    CodeIgniter
+ * @subpackage Libraries
+ * @category   Input
+ * @author     Michal Sniatala <m.sniatala@gmail.com>
+ * @link       https://github.com/michalsn/CodeIgniter-PJAX
+ * @license    http://opensource.org/licenses/MIT	MIT License
+ * @version    1.0
  */
 class MY_Input extends CI_Input {
 

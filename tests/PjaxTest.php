@@ -18,8 +18,8 @@ class PjaxTest extends PHPUnit_Framework_TestCase {
 	}
 
 	protected function tearDown() {
-        m::close();
-    }
+		m::close();
+	}
 
 	public function test_pjax_request()
 	{

@@ -7,12 +7,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *
  * Post Controller Hook
  *
- * @package		CodeIgniter
- * @subpackage	Hooks
- * @author		Michal Sniatala <m.sniatala@gmail.com>
- * @link		https://github.com/michalsn/CodeIgniter-PJAX
- * @license		http://opensource.org/licenses/MIT	MIT License
- * @version		1.0
+ * @package    CodeIgniter
+ * @subpackage Hooks
+ * @author     Michal Sniatala <m.sniatala@gmail.com>
+ * @link       https://github.com/michalsn/CodeIgniter-PJAX
+ * @license    http://opensource.org/licenses/MIT	MIT License
+ * @version    1.0
  */
 class Pjax {
 
@@ -177,8 +177,8 @@ class Pjax {
 	{
 		if ($this->dom)
 		{
-            return $this->dom;
-        }
+			return $this->dom;
+		}
 
 		$output = $this->ci->output->get_output();
 
