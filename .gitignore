@@ -1,0 +1,14 @@
+# Mac Stuff
+.DS_Store
+
+# IDE Files
+.idea/*
+*.sublime-workspace
+*.sublime-project
+
+# Composer Installs
+vendor/*
+composer.lock
+
+# Tests Results
+build/*
