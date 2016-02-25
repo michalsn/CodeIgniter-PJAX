@@ -1,4 +1,4 @@
-# CodeIgniter PJAX Hook
+# CodeIgniter PJAX
 [![Build Status](https://travis-ci.org/michalsn/CodeIgniter-PJAX.svg?branch=master)](https://travis-ci.org/michalsn/CodeIgniter-PJAX)
 
 What is PJAX? It's a jquery plugin. For more information visit the [plugin page](https://github.com/defunkt/jquery-pjax).
