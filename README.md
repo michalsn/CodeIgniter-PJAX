@@ -24,6 +24,10 @@ Enable hooks in your `application/config/config.php` file, by setting `$config['
 
 PJAX container must be an `id` attribute.
 
+## Example
+
+Working example can be found [here](https://github.com/michalsn/CodeIgniter-PJAX-example).
+
 ## Testing
 
 ```bash
